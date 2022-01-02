@@ -21,7 +21,7 @@ gitbook.require(["gitbook", "lodash", "jQuery"], function(gitbook, _, $) {
     // Increase font size
     function enlargeFontSize(e) {
         e.preventDefault();
-        if (fontState.size >= 4) return;
+        if (fontState.size >= 14) return;
 
         fontState.size++;
         saveFontSettings();

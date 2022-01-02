@@ -79,17 +79,54 @@ div.book.color-theme-2 {
   font-size: 1.6rem;
 }
 .book.font-size-3 .book-body .page-inner section {
-  font-size: 2.2rem;
+  font-size: 1.8rem;
 }
 .book.font-size-4 .book-body .page-inner section {
-  font-size: 4rem;
+  font-size: 2rem;
 }
+.book.font-size-5 .book-body .page-inner section {
+  font-size: 2.2rem;
+}
+.book.font-size-6 .book-body .page-inner section {
+  font-size: 2.4rem;
+}
+.book.font-size-7 .book-body .page-inner section {
+  font-size: 2.6rem;
+}
+.book.font-size-8 .book-body .page-inner section {
+  font-size: 2.8rem;
+}
+.book.font-size-9 .book-body .page-inner section {
+  font-size: 3rem;
+}
+
+.book.font-size-10 .book-body .page-inner section {
+  font-size: 3.2rem;
+}
+
+.book.font-size-11 .book-body .page-inner section {
+  font-size: 3.4rem;
+}
+
+.book.font-size-12 .book-body .page-inner section {
+  font-size: 3.6rem;
+}
+
+.book.font-size-13 .book-body .page-inner section {
+  font-size: 3.8rem;
+}
+
+.book.font-size-14 .book-body .page-inner section {
+  font-size: 4.0rem;
+}
+
 .book.font-family-0 {
   font-family: Georgia, serif;
 }
 .book.font-family-1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal {
   color: #704214;
 }
